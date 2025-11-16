@@ -1,0 +1,7 @@
+Test Case ID,Title,Steps,Expected Result,Actual Result,Status
+TC-01,Game Launch,Open Subway Surfers app and wait for loading,Game loads within 5 to 7 seconds,Loads successfully,Pass
+TC-02,Swipe Controls Responsiveness,"Start a run, swipe left/right/up/down rapidly",Immediate response,0.2s delay when swiping fast,Fail
+TC-03,Power-up Behaviour,Collect magnet → Take sharp turns,Coins pulled automatically,Some coins missed on sharp curves,Fail
+TC-04,Pause Button Function,Tap pause button repeatedly during run,Pause opens every time,Unresponsive after multiple taps,Fail
+TC-05,Sound Toggle Test,Open settings → toggle sound off/on,Sound responds instantly,Works as expected,Pass
+TC-06,Inspector Leg Animation Check,Inspector Leg Animation Check,Start a run ? Hit an obstacle to trigger stumble ? Observe inspector and dog animation immediately after,"Inspector and dog should show smooth running animation without clipping"",""Inspector legs clip into ground and freeze in incorrect pose; dog legs also appear misaligned",Fail

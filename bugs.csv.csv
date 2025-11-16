@@ -1,0 +1,7 @@
+Bug ID,Description,Steps to Reproduce,Severity,Status
+BUG-01,Swipe delay in gameplay,Rapid left/right swipe during run,Medium,Open
+BUG-02,Magnet missing coins on curves,Collect magnet  ->Take sharp turns,Medium,Open
+BUG-03,Pause button becomes unresponsive,Tap pause repeatedly during run,High,Open
+BUG-04,Game sound missing after ad,Watch ad -> Return to gameplay,Major,Open
+BUG-05,FPS drops after long play session,Play for 3 to 5 minutes continuously,Medium,Open
+BUG-06,Police legs,Inspector’s legs appear clipped / frozen in incorrect pose; dog legs also misaligned,High,Open
