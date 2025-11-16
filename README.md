@@ -54,7 +54,7 @@ Detailed bug report with:
 | Sound Missing After Ads | Major |
 | FPS Drops | Medium |
 
- 4. 🤖 AI Integration (Required for EA)
+ 4. 🤖 AI Integration 
 AI tools (ChatGPT) were used to:
 - Format test case templates  
 - Rephrase bug descriptions  
